@@ -1,3 +1,58 @@
+<!-- ============================== -->
+<!--        HEADER SECTION         -->
+<!-- ============================== -->
+
+<h1 align="center">Architecting Intelligent, Production-Grade Systems</h1>
+
+<p align="center">
+Senior AI-Focused Software Engineer & Systems Architect<br>
+15 Years • Healthcare • Telecom • Oil & Gas • Automotive • Education
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=079DF7&multiline=true&width=500&height=150&lines=.%2Fdonald+--sayHi;Hi!+This+is+Donald.;Welcome+to+my+GitHub+page!;Wish+you+have+a+great+day!">
+  </a>
+</p>
+
+---
+
+## 🧰 Skills
+
+#### `./donald --skills`
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,postgres,mongodb,aws,azure,docker,kubernetes)](https://skillicons.dev)
+
+- **Languages:** Python, JavaScript, HTML/CSS, SQL  
+- **Frameworks / Systems:** Node.js, Docker, Kubernetes  
+- **Databases:** PostgreSQL, MongoDB  
+- **Cloud:** AWS, Azure  
+- **Other:** Infrastructure design, bare-metal ops, LLM/GenAI, Computer Vision, Microservices  
+
+<p align="center">
+  <a href="https://wakatime.com/@YOUR_USERNAME">
+    <img src="https://wakatime.com/badge/user/45f53c7c-9da9-4cb0-85d6-17bd38cc748b.svg" alt="WakaTime Stats">
+  </a>
+  &nbsp;
+  <a href="https://hitscounter.dev/api/hit?url=https://github.com/YOUR_USERNAME&label=Visitor&icon=github&color=%23198754">
+    <img src="https://hitscounter.dev/api/hit?url=https://github.com/YOUR_USERNAME&label=Visitor&icon=github&color=%23198754" alt="Visitor Count">
+  </a>
+</p>
+
+---
+
+## ⚙️ What I Do
+
+I design and deliver **scalable, fault-tolerant systems** — from bare metal infrastructure to distributed AI-powered platforms.
+
+I build systems that:
+- Survive production
+- Scale under pressure
+- Remain observable and maintainable
+- Integrate intelligence without fragility
+
+---
+
 # Architecting Intelligent, Production-Grade Systems
 
 Senior AI-Focused Software Engineer & Systems Architect  
