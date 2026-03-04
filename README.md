@@ -109,6 +109,7 @@ Built and optimized hybrid infrastructure stacks combining on-prem hardware with
 ---
 
 ## Technology Stack
+[![My Skills](https://skillicons.dev/icons?i=python,vue,flask,mysql,html,css,sass,bootstrap,js,php)](https://skillicons.dev)
 
 ### AI & Data
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
