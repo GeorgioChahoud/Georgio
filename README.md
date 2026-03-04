@@ -13,23 +13,13 @@ Senior AI-Focused Software Engineer & Systems Architect<br>
 
 ## 🧰 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,postgres,mongodb,aws,azure,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,postgres,mongodb,aws,azure,docker,kubernetes,flask,django,fastapi)](https://skillicons.dev)
 
 - **Languages:** Python, JavaScript, HTML/CSS, SQL  
-- **Frameworks / Systems:** Node.js, Docker, Kubernetes  
+- **Frameworks / Systems:** Node.js, Docker, Kubernetes, Django, FastApi  
 - **Databases:** PostgreSQL, MongoDB  
 - **Cloud:** AWS, Azure  
 - **Other:** Infrastructure design, bare-metal ops, LLM/GenAI, Computer Vision, Microservices  
-
-<p align="center">
-  <a href="https://wakatime.com/@YOUR_USERNAME">
-    <img src="https://wakatime.com/badge/user/45f53c7c-9da9-4cb0-85d6-17bd38cc748b.svg" alt="WakaTime Stats">
-  </a>
-  &nbsp;
-  <a href="https://hitscounter.dev/api/hit?url=https://github.com/YOUR_USERNAME&label=Visitor&icon=github&color=%23198754">
-    <img src="https://hitscounter.dev/api/hit?url=https://github.com/YOUR_USERNAME&label=Visitor&icon=github&color=%23198754" alt="Visitor Count">
-  </a>
-</p>
 
 ---
 
@@ -52,14 +42,6 @@ Senior AI-Focused Software Engineer & Systems Architect
 
 I design and deliver scalable, fault-tolerant systems — from bare metal infrastructure to distributed AI-powered platforms.  
 My work focuses on reliability, performance, and systems that operate under real-world constraints.
-
----
-
-## Professional Summary
-
-I specialize in building intelligent systems that run in production — not demos.
-
-Over the past 15 years, I’ve engineered high-availability platforms, modernized legacy monoliths, designed distributed microservice architectures, deployed cloud-native systems, and built AI/LLM-powered solutions that solve domain-specific problems across regulated and mission-critical industries.
 
 I think in systems:
 - Failure domains
