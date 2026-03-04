@@ -1,7 +1,7 @@
 # Architecting Intelligent, Production-Grade Systems
 
 Senior AI-Focused Software Engineer & Systems Architect  
-15 years building reliable systems across Healthcare, Telecommunications, Oil & Gas, Automotive, and Education.
+10 years building reliable systems across Healthcare, Telecommunications, Oil & Gas, Automotive, and Education.
 
 I design and deliver scalable, fault-tolerant systems — from bare metal infrastructure to distributed AI-powered platforms.  
 My work focuses on reliability, performance, and systems that operate under real-world constraints.
