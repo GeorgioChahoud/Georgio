@@ -23,22 +23,22 @@ I think in systems:
 
 ---
 
-## Core Expertise
+## 🧠 Core Expertise
 
-### LLM / Generative AI
+### 🤖 LLM / Generative AI
 - Retrieval-Augmented Generation (RAG)
 - Prompt architecture & evaluation pipelines
 - Vector databases & embedding systems
 - AI system integration into existing enterprise stacks
 - Production deployment of GenAI workloads
 
-### Computer Vision
+### 👁 Computer Vision
 - Image classification & object detection systems
 - Real-time inference pipelines
 - Model optimization for deployment
 - Integration with operational workflows
 
-### Distributed Systems
+### 🏗 Distributed Systems
 - Microservices architecture (event-driven & REST)
 - Modular monolith design
 - Message queues & async processing
@@ -46,13 +46,13 @@ I think in systems:
 - Horizontal scaling & load balancing
 - Observability-first architecture
 
-### Languages & Application Development
+### 💻 Languages & Application Development
 - Python (backend systems, AI pipelines, automation)
 - JavaScript (Node.js, frontend systems)
 - HTML/CSS (structured UI systems)
 - API design & contract-first development
 
-### Databases
+### 🏛 Databases
 - PostgreSQL / MySQL
 - MongoDB
 - Redis
@@ -60,14 +60,14 @@ I think in systems:
 - Data modeling for scale
 - Migration strategies & schema evolution
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 - AWS (EC2, S3, RDS, IAM, VPC, Lambda)
 - Azure (App Services, Functions, Storage, Networking)
 - Infrastructure as Code principles
 - CI/CD pipelines
 - Secure network segmentation
 
-### Server & Physical Infrastructure
+### 🖥️ Server & Physical Infrastructure
 - Rack design & hardware deployment
 - Power distribution & redundancy
 - Network topology planning
@@ -77,7 +77,7 @@ I think in systems:
 
 ---
 
-## Architecture Mindset
+## 🔥 Architecture Mindset
 
 I build systems with the following priorities:
 
@@ -133,7 +133,7 @@ Built and optimized hybrid infrastructure stacks combining on-prem hardware with
 
 ---
 
-## Volunteering & Community
+## 🤝 Volunteering & Community
 
 I contribute time and expertise to technical mentorship, educational initiatives, and community-driven engineering efforts — particularly where infrastructure and AI can create measurable impact.
 
@@ -149,7 +149,7 @@ I believe strong engineering communities build strong systems.
 
 ---
 
-## What I Build
+## 🧭 What I Build
 
 Systems that:
 - Survive production
