@@ -6,7 +6,7 @@
 
 <p align="center">
 Senior AI-Focused Software Engineer & Systems Architect<br>
-15 Years • Healthcare • Telecom • Oil & Gas • Automotive • Education
+15+ years building resilient systems across Healthcare, Telecom, Oil & Gas, Automotive, and Education
 </p>
 
 ---
@@ -15,11 +15,11 @@ Senior AI-Focused Software Engineer & Systems Architect<br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,postgres,mongodb,aws,azure,docker,kubernetes,flask,django,fastapi)](https://skillicons.dev)
 
-- **Languages:** Python, JavaScript, HTML/CSS, SQL  
-- **Frameworks / Systems:** Node.js, Docker, Kubernetes, Django, FastApi  
-- **Databases:** PostgreSQL, MongoDB  
-- **Cloud:** AWS, Azure  
-- **Other:** Infrastructure design, bare-metal ops, LLM/GenAI, Computer Vision, Microservices  
+**Languages:** Python, JavaScript, HTML/CSS, SQL  
+**Frameworks / Systems:** Node.js, Django, Flask, FastAPI, Docker, Kubernetes  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Cloud / Infra:** AWS, Azure, Networking, Bare-metal Ops  
+**AI / Data:** LLM, Computer Vision, GenAI, RAG, Vector DBs
 
 ---
 
@@ -32,6 +32,12 @@ I build systems that:
 - Scale under pressure
 - Remain observable and maintainable
 - Integrate intelligence without fragility
+
+- **LLM / Generative AI:** RAG pipelines, embeddings, production integration
+- **Computer Vision:** Real-time inference, deployment-optimized models
+- **Distributed Systems:** Microservices, async messaging, observability-first
+- **Databases:** PostgreSQL, MongoDB, Redis — scalable modeling & indexing
+- **Cloud & Infrastructure:** AWS, Azure, IaC, CI/CD, hybrid cloud
 
 ---
 
@@ -137,32 +143,6 @@ Built and optimized hybrid infrastructure stacks combining on-prem hardware with
 
 ---
 
-## Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=python,vue,flask,mysql,html,css,sass,bootstrap,js,php)](https://skillicons.dev)
-
-### AI & Data
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![LLM](https://img.shields.io/badge/LLM-Production--Systems-black)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deployment-critical)
-
-### Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet)
-![Monolith](https://img.shields.io/badge/Monolith-Modular-important)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Scale-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
-![Redis](https://img.shields.io/badge/Redis-Cache-red)
-
-### Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![Networking](https://img.shields.io/badge/Networking-Advanced-lightgrey)
-![Bare Metal](https://img.shields.io/badge/Bare%20Metal-Operations-black)
-
----
-
 ## 🤝 Volunteering & Community
 
 I contribute time and expertise to technical mentorship, educational initiatives, and community-driven engineering efforts — particularly where infrastructure and AI can create measurable impact.
@@ -173,9 +153,9 @@ I believe strong engineering communities build strong systems.
 
 ## GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgio&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgio&layout=compact&hide_border=true)
 
 ---
 
