@@ -9,17 +9,9 @@ Senior AI-Focused Software Engineer & Systems Architect<br>
 15 Years • Healthcare • Telecom • Oil & Gas • Automotive • Education
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=079DF7&multiline=true&width=500&height=150&lines=.%2Fdonald+--sayHi;Hi!+This+is+Donald.;Welcome+to+my+GitHub+page!;Wish+you+have+a+great+day!">
-  </a>
-</p>
-
 ---
 
 ## 🧰 Skills
-
-#### `./donald --skills`
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,postgres,mongodb,aws,azure,docker,kubernetes)](https://skillicons.dev)
 
